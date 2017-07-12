@@ -20,7 +20,7 @@ use one instead of another?
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
 
-    Fill in your answer here
+    To make changes to it in offline mode, so later on we can use the git fetch to see the diff between our out-of-sync changes and those commited to the master on github
 
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
