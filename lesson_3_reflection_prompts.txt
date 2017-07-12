@@ -25,7 +25,9 @@ stored locally?
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
 
-    Fill in your answer here
+    Easy will be a onedrive - gdrive - like system, both have chats, so the
+communication will be there, the hardest will be each person by its own and then 
+try to merge all th differents
 
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
