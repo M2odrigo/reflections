@@ -32,4 +32,6 @@ try to merge all th differents
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+    When we are working in a collaborative team and possibly have to make changes on the same file,
+this will help others to understand what I have done and compare with their files before the merge
+into the master branch
